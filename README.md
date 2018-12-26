@@ -1,2 +1,3 @@
 # hello-world
-hello world on github
+
+GitHub เหรอ ผมยังไม่เชื่อว่ามันจะช่วยเรื่อง version control ได้ยังไง ในเมื่อเราสร้างงานและต้อง complie ดูผลลัพธ์ที่เครื่องทดสอบ แต่ GitHub เก็บเป็น text เท่านั้น???
